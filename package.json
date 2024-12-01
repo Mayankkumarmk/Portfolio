@@ -9,6 +9,10 @@
     "lint": "eslint .",
     "preview": "vite preview",
     "start": "vite preview"
+<<<<<<< HEAD
+=======
+    
+>>>>>>> 75d51fee89065c466ff93081a179da542d15d713
   },
   "dependencies": {
     "@emailjs/browser": "^4.4.1",
