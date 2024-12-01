@@ -25,10 +25,16 @@ import meta from "./company/meta.png";
 import shopify from "./company/shopify.png";
 import starbucks from "./company/starbucks.png";
 import tesla from "./company/tesla.png";
+import dbs from "./company/dbs.png";
+import googleCloud from "./company/googleCloud.png";
+
 
 import carrent from "./carrent.png";
 import jobit from "./jobit.png";
 import tripguide from "./tripguide.png";
+import nft from "./nft.png";
+import gptflix from "./gptflix.png";
+import keeper from "./keeper.png";
 
 export {
   logo,
@@ -59,4 +65,9 @@ export {
   carrent,
   jobit,
   tripguide,
+  nft,
+  gptflix,
+  googleCloud,
+  dbs,
+  keeper
 };
