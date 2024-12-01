@@ -26,7 +26,7 @@ import shopify from "./company/shopify.png";
 import starbucks from "./company/starbucks.png";
 import tesla from "./company/tesla.png";
 import dbs from "./company/dbs.png";
-import googleCloud from "./company/googleCloud.png";
+import googlecloud from "./company/googlecloud.png";
 
 
 import carrent from "./carrent.png";
@@ -67,7 +67,7 @@ export {
   tripguide,
   nft,
   gptflix,
-  googleCloud,
+  googlecloud,
   dbs,
   keeper
 };

@@ -23,7 +23,7 @@ import {
     jobit,
     tripguide,
     threejs,
-    googleCloud,
+    googlecloud,
     dbs,
     nft,
     gptflix,
@@ -117,26 +117,27 @@ import {
   
   const experiences = [
     {
-      title: "DevOps",
+      title: "SDE (DevOps)",
       company_name: "DBS Tech",
       icon: dbs,
-      iconBg: "#383E56",
+      iconBg: "#E6DEDD",
       date: "June 2024",
       points: [
         "Developing and maintaining web applications related technologies.",
+        "Achieving new milestones, learning different tech stacks (upskilling).",
       
       ],
     },
     {
       title: "Google Cloud Facilitator 23",
       company_name: "Google Cloud",
-      icon: googleCloud,
+      icon: googlecloud,
       iconBg: "#E6DEDD",
       date: "Sep 2023 - Feb 2024",
       points: [
         "Facilitate Arcade Event of Google cloud across India using Qwicklabs.",
-        "Helped in Achieving participants thier various milestones, Goodies and labs.",
-        "Participated in facilitator meetings to guide candidates and helped in learning them related to Google cloud Qwicklabs.",
+        "Helped in Achieving participants thier various milestones, goodies and labs.",
+        "Participated in facilitator meetings to guide candidates and helped in learning them related to Google Cloud Qwicklabs.",
       ],
     },
     // {
@@ -198,7 +199,7 @@ import {
     {
       name: "NFT MarketPlace",
       description:
-        "Web-based platform that allows users to buy, sell, and manage thier NFT's. A decentralized platform build using ICP blockchain.",
+        "Web3 based platform that allows users to buy, sell, and manage thier NFT's. A decentralized platform build using ICP blockchain.",
       tags: [
         {
           name: "react",
