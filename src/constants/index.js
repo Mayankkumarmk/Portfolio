@@ -4,7 +4,6 @@ import {
     creator,
     web,
     javascript,
-    typescript,
     html,
     css,
     reactjs,
@@ -15,13 +14,6 @@ import {
     git,
     figma,
     docker,
-    meta,
-    starbucks,
-    tesla,
-    shopify,
-    carrent,
-    jobit,
-    tripguide,
     threejs,
     googlecloud,
     dbs,
@@ -117,15 +109,26 @@ import {
   
   const experiences = [
     {
-      title: "SDE (DevOps)",
+      title: "SDE @ Experian",
+      company_name: "Experian",
+      icon: dbs,
+      iconBg: "#E6DEDD",
+      date: "Jan 2025",
+      points: [
+        "Worked under TOC team, Escalating severity incidents, alerts which are impacting the services.",
+        "Resolving issues that impact services resulting in high cost and bad customer experience",
+        "Handle alerts, Failed jobs, incidents and monitor services."
+      ],
+    },
+    {
+      title: "SDE Intern (DevOps)",
       company_name: "DBS Tech",
       icon: dbs,
       iconBg: "#E6DEDD",
-      date: "June 2024",
+      date: "June 2024 - Dec 2024",
       points: [
         "Developing and maintaining web applications related technologies.",
-        "Achieving new milestones, learning different tech stacks (upskilling).",
-      
+        "Achieving new milestones, Gain expertise in devops (linux, kubernetes, docker, ansible, jenkins).",
       ],
     },
     {
@@ -140,32 +143,7 @@ import {
         "Participated in facilitator meetings to guide candidates and helped in learning them related to Google Cloud Qwicklabs.",
       ],
     },
-    // {
-    //   title: "Web Developer",
-    //   company_name: "Shopify",
-    //   icon: shopify,
-    //   iconBg: "#383E56",
-    //   date: "Jan 2022 - Jan 2023",
-    //   points: [
-    //     "Developing and maintaining web applications using React.js and other related technologies.",
-    //     "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-    //     "Implementing responsive design and ensuring cross-browser compatibility.",
-    //     "Participating in code reviews and providing constructive feedback to other developers.",
-    //   ],
-    // },
-    // {
-    //   title: "Full stack Developer",
-    //   company_name: "Meta",
-    //   icon: meta,
-    //   iconBg: "#E6DEDD",
-    //   date: "Jan 2023 - Present",
-    //   points: [
-    //     "Developing and maintaining web applications using React.js and other related technologies.",
-    //     "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-    //     "Implementing responsive design and ensuring cross-browser compatibility.",
-    //     "Participating in code reviews and providing constructive feedback to other developers.",
-    //   ],
-    // },
+    
   ];
   
   const testimonials = [
